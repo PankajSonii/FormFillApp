@@ -6,7 +6,7 @@
 
     <label for="first-name">Enter Your First Name: <input id="first-name" type="text" required />
     <br> 
-    <label for="Last-name">Enter Your First Name: <input id="Last-name" type="text" required />
+    <label for="Last-name">Enter Your Last Name: <input id="Last-name" type="text" required />
     <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
