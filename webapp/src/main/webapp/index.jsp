@@ -3,7 +3,9 @@
     <h1>Saidemy Student Registration!!!!!!!</h1>
     <p>Please fill in this form!!</p>
     <hr>
-       
+
+    <label for="first-name">Enter Your First Name: <input id="first-name" type="text" required />
+    <br>  
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
