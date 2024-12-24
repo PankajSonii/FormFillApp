@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Student Registration for 5th projects </h1>
+    <h1> Student Registration for 5th project of CI-CD </h1>
     <p>Please fill in this form!!</p>
     <hr>
 
